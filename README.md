@@ -3,8 +3,8 @@
 Descubra como o poder da programação pode **mudar seu o futuro** e a **sua vida!**
 
 Redes Sociais:
-* [Youtube](https://www.youtube.com/valdecirdevdeco)
-* [Site](www.vwmtecnologias.com.br)
+* [Youtube](https://www.youtube.com/@valdecirdevdeco)
+* [Site](https://www.vwmtecnologias.com.br)
 * [Instagram](https://www.instagram.com/valdecirdevdeco)
 * [Portfolio](https://valdecirwm.github.io/valdecir-dev/)
 * [Linkedin](https://www.linkedin.com/in/valdecir-waldhelm-morgado)
